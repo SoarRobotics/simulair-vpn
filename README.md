@@ -29,3 +29,26 @@ import session file
 start session
 
     # openvpn3 session-start --config Luka.ovpn
+# SSH into the server
+Install putty
+
+    # sudo add-apt-repository universe
+    # sudo apt update
+    # sudo apt install putty
+   
+   Open the app
+   
+
+    # putty
+![enter image description here](https://i0.wp.com/itsfoss.com/wp-content/uploads/2018/12/putty-interface-ubuntu.jpeg?w=800&ssl=1)
+   
+
+ - Go Connection > SSH > Auth 
+ - Browse the Server.ppk file in the "temp"
+   repo  
+  - Go to the "session" in putty 
+  - Type IP ( make sure the ssh is
+   selected)
+   
+
+    ubuntu@18.157.120.51
