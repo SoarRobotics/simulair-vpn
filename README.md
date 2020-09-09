@@ -50,5 +50,12 @@ Install putty
   - Type IP ( make sure the ssh is
    selected)
    
-
-    ubuntu@18.157.120.51
+    18.157.120.51
+  
+  - Save the session by typing a name and then pressing save. Otherwise, you will have to browse .ppk file eachtime.
+  - type user name 
+  
+     ubuntu
+     
+You should be logged in now
+  
